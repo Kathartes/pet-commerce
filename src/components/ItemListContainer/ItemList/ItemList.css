@@ -1,0 +1,9 @@
+.pet-cards {
+    display: grid;
+    height: 100%;
+    grid-template-columns: repeat(auto-fill, minmax(calc(33.33% - 20px), 1fr));
+    grid-gap: 30px;
+    padding: 10px;
+    margin: 10px;
+    background-image: white;
+  }

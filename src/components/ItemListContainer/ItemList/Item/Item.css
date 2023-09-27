@@ -1,0 +1,34 @@
+.pet-card {
+    background-image: linear-gradient(to top, #e2e8f0, #eaedf4, #f2f3f7, #f9f9fb, #ffffff);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.2s ease-in-out;
+    text-align: center;
+    height: 400px;
+    color: black;
+  }
+  .pet-card:hover {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  }
+  .pet-card h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .pet-card p {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  .pet-card button {
+    color: #FFC107;
+    background-color:  #847496;
+    border: none;
+    border-radius: 3px;
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .image {
+    width: 220px;
+    height: 220px;
+  }

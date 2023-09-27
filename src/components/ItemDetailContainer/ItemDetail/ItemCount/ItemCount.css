@@ -1,0 +1,11 @@
+.counter {
+    background-color:  #847496;
+    width: 30px;
+    height: 30px;
+    border: none;
+    margin: 2px;
+    color: #FFC107;
+}
+.item-count {
+    color: black;
+}

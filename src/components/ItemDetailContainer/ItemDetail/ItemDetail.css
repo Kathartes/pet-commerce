@@ -1,0 +1,20 @@
+
+  
+  .pet-details {
+    margin: 50px auto;
+    max-width: 600px;
+    color: black;
+  }
+  
+  .pet-details h2 {
+    margin-bottom: 15px;
+  }
+  
+  .pet-details p {
+    font-size: 20px;
+    margin: 5px 0;
+  }
+  .image-detail{
+    width: 400px;
+    height: 400px;
+  }

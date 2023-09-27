@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "category": "Perros",
+      "name": "Huguito",
+      "image": "https://w0.peakpx.com/wallpaper/998/923/HD-wallpaper-bad-dog-cute-terrier-yorkshire-terrier-nature-animals-dogs.jpg",
+      "age": "3 años",
+      "gender": "Macho"
+    },
+    {
+      "id": 2,
+      "category": "Perros",
+      "name": "Florcita",
+      "image": "https://freerangeamerican.us/wp-content/uploads/2022/05/malinois-2.jpg",
+      "age": "2 años",
+      "gender": "Hembra"
+    },
+    {
+      "id": 3,
+      "category": "Perros",
+      "name": "Tilo",
+      "image": "https://i.pinimg.com/originals/70/bc/bf/70bcbfa46bba97fa65285874e7d93854.jpg",
+      "age": "4 años",
+      "gender": "Macho"
+    },
+    {
+      "id": 4,
+      "category": "Gatos",
+      "name": "Karinaaaa",
+      "image": "https://netninja.com/images/lj/angry_sphinx.jpg",
+      "age": "1 años",
+      "gender": "Hembra"
+    },
+    {
+      "id": 5,
+      "category": "Gatos",
+      "name": "Rapha",
+      "image": "https://i.pinimg.com/564x/2e/8f/1c/2e8f1c949376a95b44821e75faa4e2f5.jpg",
+      "age": "2 años",
+      "gender": "Macho"
+    },
+    {
+      "id": 6,
+      "category": "Gatos",
+      "name": "Roque",
+      "image": "https://cdn.mos.cms.futurecdn.net/68Q966CwEuZrYgnLUiq88E-1200-80.jpg",
+      "age": "3 años",
+      "gender": "Macho"
+    },
+    {
+      "id": 7,
+      "category": "Otros",
+      "name": "Patroclo",
+      "image": "https://i.ytimg.com/vi/W4xIYpV57Zw/maxresdefault.jpg",
+      "age": "1.5 años",
+      "gender": "Macho"
+    },
+    {
+      "id": 8,
+      "category": "Otros",
+      "name": "Manuelita",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/04/12/16/dilophosaurus-jurassic-park.jpg",
+      "age": "5 años",
+      "gender": "Hembra"
+    },
+    {
+      "id": 9,
+      "category": "Otros",
+      "name": "Tiburoncin",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/Cfuvq3iRD8KSDlmrVNWUJv1kfFU=/fit-in/1600x0/filters:focal(1542x1697:1543x1698)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/d0/06/d00620a0-8dc9-4be8-a3c1-cd075845b348/42-53008611.jpg",
+      "age": "6 meses",
+      "gender": "Macho"
+    }
+  ]
