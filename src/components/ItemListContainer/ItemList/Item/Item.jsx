@@ -9,7 +9,7 @@ const Item = ({pet}) => {
     <h3>{pet.name}</h3>
     <img src={pet.image} alt={pet.name} className="image"/>
     <p>{pet.gender}</p>
-    <p>Edad: {pet.age}</p>
+    <p>Precio: ${pet.price}</p>
     <Link to={`/item/${pet.id}`}>
       <button>Detalles</button>
     </Link>
