@@ -26,18 +26,4 @@
 
 6. **Entrega Rápida:** Preparamos tu pedido y lo enviamos rápidamente a tu puerta.
 
-## Tecnologías Utilizadas
-
-- HTML, CSS y JavaScript: La base de la interfaz de usuario y funcionalidad.
-- Plataforma de Pagos: Para gestionar transacciones seguras.
-- Base de Datos: Donde se almacena información de productos y pedidos.
-
-## Contribuciones
-
-Si deseas contribuir al proyecto, ¡tu ayuda es bienvenida! Por favor, crea un fork del repositorio, trabaja en tus mejoras y envía un pull request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Para obtener más detalles, consulta el archivo [LICENSE](LICENSE).
-
-Gracias por visitar nuestro E-Commerce de Clones de Mascotas. ¡Esperamos que encuentres al clon perfecto de tu mascota soñada!
+![Gif](./public/gif.gif)
