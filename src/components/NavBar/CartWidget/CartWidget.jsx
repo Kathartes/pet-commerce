@@ -1,7 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { useCart } from '../../../hooks/useContext';
-import Icon from '../../../assets/react.svg';
+import Icon from '../../../assets/icons8-cart-32.png';
+import "./CartWidget.css";
 
 const CartWidget = () => {
   const { cart } = useCart();
@@ -11,7 +12,7 @@ const CartWidget = () => {
     <div className="cart">
       <Link to="/cart">
         <img src={Icon} alt="Icono de carrito" />
-        <span className="notification">{cartItemCount}</span>
+        <span className="cart-number">{cartItemCount}</span>
       </Link>
     </div>
   );

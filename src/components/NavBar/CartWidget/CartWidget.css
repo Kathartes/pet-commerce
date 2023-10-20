@@ -1,17 +1,25 @@
+/* CartWidget.css */
+
 .cart {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-  }
-  
-  .cart-number {
-    background-color: #ff0000;
-    color: #ffffff;
-    border-radius: 50%;
-    padding: 2px 6px;
-    margin: 0 20px 0 5px;
-  }
-  
-  .cart:hover {
-    cursor: pointer;
-  }
+  display: flex;
+  align-items: center;
+}
+
+.cart img {
+  width: 32px; /* Ajusta el ancho de la imagen según tus necesidades */
+  height: auto; /* Mantén la relación de aspecto original */
+  margin-right: 5px; /* Ajusta el margen a tu preferencia */
+  vertical-align: middle; /* Alinea verticalmente la imagen en el centro del contenedor */
+}
+
+.cart-number {
+  color: #FFC107;
+  border-radius: 50%;
+  margin-top: 4px; /* Ajusta el margen superior para mover el número un poco más abajo */
+  margin: 0; /* Ajusta el margen a tu preferencia */
+  font-size: 18px; /* Establece el tamaño de fuente igual al tamaño de la imagen */
+}
+
+.cart:hover {
+  cursor: pointer;
+}

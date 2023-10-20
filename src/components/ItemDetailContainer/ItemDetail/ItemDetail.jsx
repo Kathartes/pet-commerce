@@ -63,7 +63,7 @@ const ItemDetail = () => {
           <p>Precio: ${pet.price}</p>
           <p>Categoría: {pet.category}</p>
           <ItemCount onQuantityChange={itemQuantitySelector} />
-          <button onClick={addItemButton}>Agregar</button>
+          <button className="add-button" onClick={addItemButton}>Agregar</button>
         </>
       ) : (
         <p>La mascota no existe.</p>

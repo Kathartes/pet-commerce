@@ -1,4 +1,12 @@
-
+ .add-button {
+  color: #FFC107;
+  background-color:  #847496;
+  border: none;
+  border-radius: 3px;
+  padding: 8px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
   
   .pet-details {
     margin: 50px auto;
